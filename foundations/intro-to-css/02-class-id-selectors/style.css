@@ -12,13 +12,13 @@ font-size: 24px;
 
 #num_2
 {
-color: blue;
+color: rgb(2, 2, 255);
 font-size: 36px;
 }
 
 #num_4
 {
-    color: black;
+    color: rgb(0, 0, 0);
     background-color: #b0ffa6;
     font-size: 24px;
     font-weight: bold;
