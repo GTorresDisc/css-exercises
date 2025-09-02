@@ -1,0 +1,25 @@
+.p,
+.pnum_3
+{
+background-color: #f19a9a;
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.pnum_3
+{
+font-size: 24px;
+}
+
+#num_2
+{
+color: blue;
+font-size: 36px;
+}
+
+#num_4
+{
+    color: black;
+    background-color: #b0ffa6;
+    font-size: 24px;
+    font-weight: bold;
+}
